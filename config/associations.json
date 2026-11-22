@@ -1,0 +1,21 @@
+{
+  "trialCount": 12,
+  "words": [
+    {"id":"apple","text":"apple","language":"en"},
+    {"id":"river","text":"river","language":"en"},
+    {"id":"chair","text":"chair","language":"en"},
+    {"id":"window","text":"window","language":"en"},
+    {"id":"bread","text":"bread","language":"en"},
+    {"id":"garden","text":"garden","language":"en"},
+    {"id":"shoe","text":"shoe","language":"en"},
+    {"id":"cloud","text":"cloud","language":"en"},
+    {"id":"book","text":"book","language":"en"},
+    {"id":"door","text":"door","language":"en"},
+    {"id":"cup","text":"cup","language":"en"},
+    {"id":"tree","text":"tree","language":"en"},
+    {"id":"road","text":"road","language":"en"},
+    {"id":"pencil","text":"pencil","language":"en"},
+    {"id":"table","text":"table","language":"en"},
+    {"id":"rain","text":"rain","language":"en"}
+  ]
+}

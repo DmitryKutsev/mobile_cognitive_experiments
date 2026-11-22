@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Cognitive Experiments",
+    "slug": "mobile-cognitive-experiments",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.dmitrykutsev.cognitiveexperiments" },
+    "android": { "package": "com.dmitrykutsev.cognitiveexperiments" }
+  }
+}
